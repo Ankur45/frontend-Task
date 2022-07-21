@@ -1,0 +1,54 @@
+.skill{
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+    padding: 10px 30px;
+    caret-color: transparent;
+}
+
+.skill4{
+    border-radius: 10px;
+    background-color: white;
+    color: red;
+    padding: 10px 30px;
+    border-color: red;
+    caret-color: transparent;   
+    float: right;
+    width: 206px;
+    height: 53px;
+}
+
+.skillreport{
+    float: right;
+    /* top: -1px; */
+    margin-top: -54px;
+}
+
+.skill5{
+    border-radius: 10px;
+    background-color: #de4040;
+    color: white;
+    padding: 10px 30px;
+    border-color: red;
+    caret-color: transparent;
+}
+
+.skillAdd{
+    background-color: #dee2e6b3;
+    border-radius: 12px;
+    padding: 21px 37px;
+    margin-bottom: 40px;
+    caret-color: transparent;
+}
+
+.submitbutton{
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+    padding: 10px 30px;
+    border-color: red;
+}
+
+.button{
+    text-align: center;
+}

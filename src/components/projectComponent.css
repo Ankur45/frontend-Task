@@ -1,0 +1,44 @@
+.skill{
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+    padding: 10px 30px;
+    caret-color: transparent;
+}
+
+.projectBox{
+    background-color: #dee2e6b3;
+    border-radius: 12px;
+    padding: 21px 37px;
+    margin-bottom: 40px;
+    caret-color: transparent;
+}
+
+.name{
+    padding: 1px 19px;
+    color: black;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.item{
+    border-radius: 25px;
+    background-color: white;
+    color: red;
+    border-color: coral;
+    margin-left: 10px;
+    padding: 10px 30px;
+    caret-color: transparent;
+}
+
+.submitbutton{
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+    padding: 10px 30px;
+    border-color: red;
+}
+
+.button{
+    text-align: center;
+}
